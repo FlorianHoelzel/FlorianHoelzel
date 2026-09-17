@@ -8,7 +8,6 @@ automation and building custom smart home integrations.
 ## 🏠 Smart Home & Automation
 
 <table>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -72,6 +71,7 @@ RM4 Mini to translate Apple Home commands into infrared controls.
 
 </td>
 </tr>
+</table>
 
 ---
 
