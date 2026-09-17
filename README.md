@@ -15,27 +15,27 @@ automation and smart home projects.
 
 > Speedrun PB archive & statistics
 
-A platform for tracking current and obsolete speedrun personal bests,
-including history, statistics and performance graphs.
+A visual archive of a speedrunner's personal best history, including current
+records, obsolete runs, progression graphs and videos.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-333333)
-![Web](https://img.shields.io/badge/Web-App-4285F4)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚆 Transitradar
+### 🚆 [TransitRadar](https://github.com/FlorianHoelzel/transitradar)
 
-> Real-time public transport tracker
+> Real-time public transport platform
 
-A real-time transit application using public transport data to display
-departures and vehicle information.
+Modern public transport platform with live departures, vehicle tracking
+and interactive maps for multiple cities.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![GTFS](https://img.shields.io/badge/GTFS--RT-4285F4)
-![API](https://img.shields.io/badge/API-009688)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 </td>
 </tr>
