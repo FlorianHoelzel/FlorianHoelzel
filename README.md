@@ -109,8 +109,3 @@ and exposes it as a smart home accessory.
 
 </td>
 </tr>
-
-<tr>
-<td width="50%" valign="top">
-</tr>
-</table>
