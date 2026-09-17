@@ -118,7 +118,6 @@ RM4 Mini to translate Apple Home commands into infrared controls.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
-![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
 ![BroadLink](https://img.shields.io/badge/BroadLink-RM4_Mini-orange)
 
 </td>
