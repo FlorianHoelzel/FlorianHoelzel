@@ -20,8 +20,6 @@ statistics and run videos from speedrun.com.
 
 [![Stars](https://img.shields.io/github/stars/FlorianHoelzel/sumof.best?style=flat&logo=github)](https://github.com/FlorianHoelzel/sumof.best)
 
-[🌐 Visit sumof.best](https://sumof.best)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
