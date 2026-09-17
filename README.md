@@ -18,8 +18,6 @@ automation and building custom smart home integrations.
 Explore current and obsolete personal bests, progression graphs,
 statistics and run videos from speedrun.com.
 
-[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/sumof.best?style=flat&logo=github)](https://github.com/FlorianHoelzel/sumof.best)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -34,8 +32,6 @@ statistics and run videos from speedrun.com.
 
 Live departures, vehicle tracking, route information and interactive
 maps for multiple German cities using official transport APIs.
-
-[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/transitradar?style=flat&logo=github)](https://github.com/FlorianHoelzel/transitradar)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -61,8 +57,6 @@ maps for multiple German cities using official transport APIs.
 Exposes purifier controls and air-quality information such as PM2.5
 directly to Apple Home.
 
-[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/philips-homekit?style=flat&logo=github)](https://github.com/FlorianHoelzel/philips-homekit)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
 
@@ -76,8 +70,6 @@ directly to Apple Home.
 
 Displays the current washing state, remaining runtime and cycle
 information inside Apple Home using HAP-python.
-
-[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/lg-thinq-homekit?style=flat&logo=github)](https://github.com/FlorianHoelzel/lg-thinq-homekit)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
@@ -95,8 +87,6 @@ information inside Apple Home using HAP-python.
 
 Uses Wake-on-LAN and a Python Windows agent to expose PC power
 controls and status as a HomeKit accessory.
-
-[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/windows-pc-homekit?style=flat&logo=github)](https://github.com/FlorianHoelzel/windows-pc-homekit)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
