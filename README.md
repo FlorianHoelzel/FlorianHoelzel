@@ -5,44 +5,6 @@ automation and building custom smart home integrations.
 
 ---
 
-## 🌐 Websites
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏁 [sumof.best](https://github.com/FlorianHoelzel/sumof.best)
-
-> A visual archive for speedrun personal best histories.
-
-Explore current and obsolete personal bests, progression graphs,
-statistics and run videos from speedrun.com.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚆 [TransitRadar](https://github.com/FlorianHoelzel/transitradar)
-
-> Real-time public transport platform.
-
-Live departures, vehicle tracking, route information and interactive
-maps for multiple German cities using official transport APIs.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🏠 Smart Home & Automation
 
 <table>
@@ -111,4 +73,40 @@ RM4 Mini to translate Apple Home commands into infrared controls.
 </td>
 </tr>
 
+---
+
+## 🌐 Websites
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏁 [sumof.best](https://github.com/FlorianHoelzel/sumof.best)
+
+> A visual archive for speedrun personal best histories.
+
+Explore current and obsolete personal bests, progression graphs,
+statistics and run videos from speedrun.com.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚆 [TransitRadar](https://github.com/FlorianHoelzel/transitradar)
+
+> Real-time public transport platform.
+
+Live departures, vehicle tracking, route information and interactive
+maps for multiple German cities using official transport APIs.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+</td>
+</tr>
 </table>
