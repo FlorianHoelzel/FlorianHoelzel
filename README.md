@@ -1,22 +1,26 @@
 # Hello 👋
 
-I'm Florian, a Python developer focused on backend development,
-automation and smart home projects.
+I'm Florian, a developer interested in web development, Python,
+automation and building custom smart home integrations.
 
 ---
 
-## 🌐 Web Projects
+## 🌐 Websites
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏁 [sumof.best](https://sumof.best)
+### 🏁 [sumof.best](https://github.com/FlorianHoelzel/sumof.best)
 
-> Speedrun PB archive & statistics
+> A visual archive for speedrun personal best histories.
 
-A visual archive of a speedrunner's personal best history, including current
-records, obsolete runs, progression graphs and videos.
+Explore current and obsolete personal bests, progression graphs,
+statistics and run videos from speedrun.com.
+
+[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/sumof.best?style=flat&logo=github)](https://github.com/FlorianHoelzel/sumof.best)
+
+[🌐 Visit sumof.best](https://sumof.best)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -28,10 +32,12 @@ records, obsolete runs, progression graphs and videos.
 
 ### 🚆 [TransitRadar](https://github.com/FlorianHoelzel/transitradar)
 
-> Real-time public transport platform
+> Real-time public transport platform.
 
-Modern public transport platform with live departures, vehicle tracking
-and interactive maps for multiple cities.
+Live departures, vehicle tracking, route information and interactive
+maps for multiple German cities using official transport APIs.
+
+[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/transitradar?style=flat&logo=github)](https://github.com/FlorianHoelzel/transitradar)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -46,66 +52,76 @@ and interactive maps for multiple cities.
 ## 🏠 Smart Home & Automation
 
 <table>
+
 <tr>
 <td width="50%" valign="top">
 
-### 💻 PC → Apple Home
+### 🌬️ [Philips Air Purifier → Apple Home](https://github.com/FlorianHoelzel/philips-homekit)
 
-> Control and monitor my Windows PC through Apple Home
+> Custom HomeKit bridge for a Philips air purifier.
 
-A Python-based HomeKit accessory that exposes my Windows PC
-to Apple Home, including power state and shutdown controls.
+Exposes purifier controls and air-quality information such as PM2.5
+directly to Apple Home.
+
+[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/philips-homekit?style=flat&logo=github)](https://github.com/FlorianHoelzel/philips-homekit)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
-![HomeKit](https://img.shields.io/badge/HomeKit-555555)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌬️ Philips Air Purifier → Apple Home
+### 🧺 [LG ThinQ Washer → Apple Home](https://github.com/FlorianHoelzel/lg-thinq-homekit)
 
-> HomeKit bridge for my Philips air purifier
+> Apple Home integration for an LG ThinQ washing machine.
 
-Python service exposing air purifier controls and sensor information
-such as PM2.5 and air quality to Apple Home.
+Displays the current washing state, remaining runtime and cycle
+information inside Apple Home using HAP-python.
+
+[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/lg-thinq-homekit?style=flat&logo=github)](https://github.com/FlorianHoelzel/lg-thinq-homekit)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00A98F)
+![LG ThinQ](https://img.shields.io/badge/LG-ThinQ-A50034)
 
 </td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+### 💻 [Windows PC → Apple Home](https://github.com/FlorianHoelzel/windows-pc-homekit)
+
+> Control and monitor a Windows PC through Apple Home.
+
+Uses Wake-on-LAN and a Python Windows agent to expose PC power
+controls and status as a HomeKit accessory.
+
+[![Stars](https://img.shields.io/github/stars/FlorianHoelzel/windows-pc-homekit?style=flat&logo=github)](https://github.com/FlorianHoelzel/windows-pc-homekit)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 🤖 Eufy RoboVac → Apple Home
 
-> Smart home integration for a non-smart RoboVac
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
-Integration of an Eufy RoboVac 11S Max into Apple Home using
-a BroadLink RM4 Mini and a custom bridge.
+> Apple Home integration for a non-smart Eufy RoboVac.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![BroadLink](https://img.shields.io/badge/BroadLink-IR-orange)
-![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧺 LG Washer → Apple Home
-
-> Custom Apple Home integration for an LG washing machine
-
-Reads washer state, remaining runtime and cycle information
-and exposes it as a smart home accessory.
+Custom integration for an Eufy RoboVac 11S Max using a BroadLink
+RM4 Mini to translate Apple Home commands into infrared controls.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LG ThinQ](https://img.shields.io/badge/LG-ThinQ-A50034)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
+![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
+![BroadLink](https://img.shields.io/badge/BroadLink-RM4_Mini-orange)
 
 </td>
 </tr>
+
+</table>
