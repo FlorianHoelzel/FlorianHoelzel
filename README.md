@@ -112,33 +112,5 @@ and exposes it as a smart home accessory.
 
 <tr>
 <td width="50%" valign="top">
-
-### 🏡 Smart Home Dashboard
-
-> Custom dashboard for home information and device status
-
-Dashboard displaying weather, temperature, humidity,
-device information and smart home sensor data.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00A98F)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🍓 Raspberry Pi Home Server
-
-> Always-on controller for home automations
-
-Raspberry Pi based host for Python services, device integrations
-and custom smart home bridges.
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-</td>
 </tr>
 </table>
