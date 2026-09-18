@@ -1,10 +1,10 @@
 # Hello 👋
 
-I'm Florian, a developer interested in Python, web development and building custom smart home integrations.
+I'm Florian, a developer interested in Python, building custom smart home integrations and web development.
 
 ---
 
-## 🏠 Smart Home & Automation
+## 🏠 Smart Home
 
 <table>
 <tr>
