@@ -2,7 +2,8 @@
 
 I'm Florian, a developer with a focus on Python, custom smart home integrations, and modern web projects.  
 
-A big part of what I enjoy is making my home smarter and bringing different devices and services together in one place. When something doesn't integrate the way I want it to, I like building my own solution.  
+A big part of what I enjoy is making my home smarter and bringing different devices and services together in one place.  
+When something doesn't integrate the way I want it to, I like building my own solution.  
 
 Outside of that, I also like creating useful websites for niche communities.
 
