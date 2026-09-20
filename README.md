@@ -62,13 +62,13 @@ controls and status as a HomeKit accessory.
 
 ### 🤖 [Eufy RoboVac G30 → Apple Home](https://github.com/FlorianHoelzel/robovac-g30)
 
-> Native Apple Home integration for the Eufy RoboVac G30 / G30 Hybrid (T2253).
+> Native Apple Home integration for the Eufy RoboVac G30.
 
 Local Python + Matterbridge integration using Tuya 3.3 to expose the RoboVac as a native Matter robotic vacuum cleaner in Apple Home.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
-![Matterbridge](https://img.shields.io/badge/Matterbridge-3.10.9-blue)
+![Matterbridge](https://img.shields.io/badge/Matterbridge-blue)
 
 </td>
 </tr>
