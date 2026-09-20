@@ -60,18 +60,15 @@ controls and status as a HomeKit accessory.
 
 <td width="50%" valign="top">
 
-### 🤖 Eufy RoboVac → Apple Home
+### 🤖 Eufy RoboVac G30 → Apple Home
 
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+> Native Apple Home integration for the Eufy RoboVac G30 / G30 Hybrid (T2253).
 
-> Apple Home integration for a non-smart Eufy RoboVac.
-
-Custom integration for an Eufy RoboVac 11S Max using a BroadLink
-RM4 Mini to translate Apple Home commands into infrared controls.
+Local Python + Matterbridge integration using Tuya 3.3 to expose the RoboVac as a native Matter robotic vacuum cleaner in Apple Home.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Matterbridge](https://img.shields.io/badge/Matterbridge-3.10.9-blue)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
-![BroadLink](https://img.shields.io/badge/BroadLink-RM4_Mini-orange)
 
 </td>
 </tr>
