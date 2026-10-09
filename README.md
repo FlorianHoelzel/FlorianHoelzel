@@ -108,7 +108,6 @@ statistics and run videos from speedrun.com.
 ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🚆 [TransitRadar](https://github.com/FlorianHoelzel/transitradar)
@@ -119,6 +118,26 @@ Live departures, vehicle tracking, route information and interactive
 maps for multiple German cities using official transport APIs.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+
+### 🦖 [Yoshi’s Island Leaderboards](https://github.com/FlorianHoelzel/yoshi-leaderboards)
+
+> A speedrun leaderboard prototype for Yoshi’s Island.
+
+Browse full-game and individual-level rankings, runner profiles,
+personal best progression, world record history and run videos.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
+
+</td>
+</tr>
+</table>
 ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 
