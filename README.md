@@ -26,7 +26,6 @@ directly to Apple Home.
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧺 [LG ThinQ Washer → Apple Home](https://github.com/FlorianHoelzel/lg-thinq-homekit)
@@ -42,7 +41,6 @@ information inside Apple Home using HAP-python.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -57,7 +55,6 @@ controls and status as a HomeKit accessory.
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🤖 [Eufy RoboVac G30 → Apple Home](https://github.com/FlorianHoelzel/robovac-g30)
@@ -69,6 +66,23 @@ Local Python + Matterbridge integration using Tuya 3.3 to expose the RoboVac as 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
 ![Matterbridge](https://img.shields.io/badge/Matterbridge-blue)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏠 [MONOLITH → Smart Home Dashboard](https://github.com/FlorianHoelzel/MONOLITH-public)
+
+> Your home, devices, and daily life in one local dashboard.
+
+Local-first Python + Flask dashboard with Apple HomeKit integration, device monitoring, calendars, shopping, and household management.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Apple Home](https://img.shields.io/badge/Apple_Home-000000?logo=apple&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white)
 
 </td>
 </tr>
