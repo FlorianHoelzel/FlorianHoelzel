@@ -118,6 +118,8 @@ Live departures, vehicle tracking, route information and interactive
 maps for multiple German cities using official transport APIs.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 
 </td>
 </tr>
@@ -138,8 +140,6 @@ personal best progression, world record history and run videos.
 </td>
 </tr>
 </table>
-![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 
 </td>
 </tr>
